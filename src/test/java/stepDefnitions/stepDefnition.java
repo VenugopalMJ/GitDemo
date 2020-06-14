@@ -32,6 +32,7 @@ public class stepDefnition {
 	   @Then("^Home page will open$")
 	    public void home_page_is_populated()  {
 	    	  System.out.println("r");
+	    	  System.out.println("Kill your opponents with your successs and silence");
 	    	 //throw new PendingException();
 	    }
 	   
