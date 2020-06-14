@@ -26,6 +26,7 @@ public class stepDefnition {
 	    	  System.out.println("v");
 	    	  System.out.println("Keep learning dont let it happen");
 	    	  System.out.println("Kill your opponents with your success and silence");
+	    	  System.out.println("Love all Karma will take care");
 	    	  throw new PendingException();
 	    }
 	    
@@ -33,6 +34,7 @@ public class stepDefnition {
 	    public void home_page_is_populated()  {
 	    	  System.out.println("r");
 	    	  System.out.println("Kill your opponents with your successs and silence");
+	    	  System.out.println("Love all Karma will take care");
 	    	 //throw new PendingException();
 	    }
 	   
